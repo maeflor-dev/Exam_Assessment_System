@@ -1,0 +1,5 @@
+# Force all PHP files anywhere in the project to be PHP
+**/*.php linguist-language=PHP
+
+# Force all .htaccess files anywhere in the project to be Apache Configuration
+**/*.htaccess linguist-language=ApacheConf
