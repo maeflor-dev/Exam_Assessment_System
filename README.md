@@ -32,4 +32,5 @@ Built using PHP, MySQL, and JavaScript.
 
 Just sharing what I made 😊
 
-Watch the Video Demo: https://youtu.be/mxJBjn7tZig?si=uB4by7qYz_wWkDfC
+Watch the Video Demo: https://youtu.be/mxJBjn7tZig?si=uB4by7qYz_wWkDfC or <img width="800" height="500" alt="Exam_VideoDemo" src="https://github.com/user-attachments/assets/23dc5257-b3d0-4265-85bd-12d473b360d1" />
+
